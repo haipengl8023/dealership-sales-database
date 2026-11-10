@@ -1,0 +1,8 @@
+.env
+.env.*
+.pgpass
+.venv/
+__pycache__/
+*.py[cod]
+*.dump
+*.bak
